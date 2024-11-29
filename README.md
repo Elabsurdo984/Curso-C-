@@ -6,7 +6,7 @@ Bienvenidos al **Curso de C++**. Este curso está diseñado para enseñarte los 
 
 El curso está dividido en varios módulos, cada uno cubriendo un aspecto clave de la programación en C++. A continuación, encontrarás una lista de los módulos con una breve descripción de lo que aprenderás en cada uno:
 
-1. **[Introducción a C++](01_Introduccion)**  
+1. **[Introducción a C++](Introduccion)**  
    - Qué es C++ y cómo configurarlo en tu máquina.
    - El primer programa en C++: "Hola Mundo".
    - 
