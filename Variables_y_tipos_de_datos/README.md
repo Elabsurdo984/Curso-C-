@@ -13,5 +13,18 @@ Para declarar una variable, necesitas especificar su tipo de dato seguido del no
 
 ```cpp
 tipo_de_dato nombre_de_variable;
+```
 
-pore
+Por ejemplo, para crear una variable que almacene un numero entero:
+```cpp
+int edad = 50
+```
+
+### Tipos de datos en C++
+**int**: Almacena números enteros (positivos o negativos) en un rango determinado por el sistema (De -2.147.483.648 a 2.147.483.647)
+**float**: Almacena números en coma flotante con precisión simple. Ej: 3.14
+**bool**: Almacena valores **True** o **False**
+
+
+
+
