@@ -9,7 +9,22 @@ El curso está dividido en varios módulos, cada uno cubriendo un aspecto clave 
 1. **[Introducción a C++](Introduccion)**  
    - Qué es C++ y cómo configurarlo en tu máquina.
    - El primer programa en C++: "Hola Mundo".
-   - 
+
+2. **[Variables y Tipos de datos](Variables_y_tipos_de_datos)**
+   - Que son las variables y como se definen
+   - Algunos de los tipos de datos en C++
+
+3. **[Control de Flujo](Control_de_flujo)**
+   - Usar Los condicionales
+   - Usar los bucles
+
+4. **[Funciones](Funciones)**
+   - Como declarar funciones
+   - Como usar las funciones
+
+5. **[Arreglos y vectores](Arreglos_y_Vectores)**
+   - Como definir arreglos
+   - Como usar vectores 
 ## Cómo Navegar el Repositorio
 
 Cada módulo está organizado dentro de su propia carpeta. Dentro de cada carpeta, encontrarás:
