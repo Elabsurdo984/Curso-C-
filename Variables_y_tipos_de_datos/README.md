@@ -22,8 +22,13 @@ int edad = 50
 
 ### Tipos de datos en C++
 **int**: Almacena números enteros (positivos o negativos) en un rango determinado por el sistema (De -2.147.483.648 a 2.147.483.647)
-**float**: Almacena números en coma flotante con precisión simple. Ej: 3.14
-**bool**: Almacena valores **True** o **False**
+**float**: Almacena números en coma flotante con precisión simple. Ej: 3.14.
+**bool**: Almacena valores **True** o **False**.
+**char**: Almacena un solo carácter, como letras o símbolos, y su valor se representa mediante un número entero basado en su código ASCII.
+
+#PD:
+Estos son solo algunos de los tipos de datos en C++, luego hare lecciones con algunos mas avanzados.
+No hize todos ya que son demasiados para recien comenzar.
 
 
 
